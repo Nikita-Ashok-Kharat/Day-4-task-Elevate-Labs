@@ -1,9 +1,6 @@
 # Day-4-task-Elevate-Labs
 SQL Developer Internship - Day 4 Task
 
-## Day-3 – Elevate Labs  
-SQL Developer Internship – Day 3 Task
-
 ### Hostel Management System 
 
 This task focuses on applying aggregate functions and group-based filtering to summarize and analyze hostel, room, and mess data. 
